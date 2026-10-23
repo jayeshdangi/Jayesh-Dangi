@@ -1,0 +1,16 @@
+Employee_ID,Name,Age,Gender,Department,City,Experience,Salary
+101,Rahul,24,Male,IT,Indore,2,35000
+102,Priya,27,Female,HR,Bhopal,4,42000
+103,Amit,30,Male,Finance,Indore,6,55000
+104,Sneha,25,Female,IT,Mumbai,3,40000
+105,Rohit,32,Male,Marketing,Delhi,8,65000
+106,Neha,28,Female,Finance,Bhopal,5,52000
+107,Vikram,35,Male,IT,Mumbai,10,80000
+108,Pooja,26,Female,HR,Delhi,3,38000
+109,Karan,29,Male,Marketing,Indore,5,48000
+110,Anjali,31,Female,IT,Bhopal,7,70000
+111,Mohit,23,Male,Finance,Delhi,1,30000
+112,Simran,34,Female,Marketing,Mumbai,9,75000
+113,Arjun,28,Male,HR,Indore,4,45000
+114,Kavya,27,Female,IT,Delhi,4,50000
+115,Deepak,33,Male,Finance,Mumbai,8,68000
